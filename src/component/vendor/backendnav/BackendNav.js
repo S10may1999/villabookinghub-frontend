@@ -8,7 +8,7 @@ function BackendNav() {
             {/* <!-- Top Navbar --> */}
       <nav class="bg-pink-600 text-white px-4 py-3 shadow-md">
           <div class="flex justify-between items-center">
-              <div class="text-xl font-bold">villachalo.com</div>
+              <div class="text-xl font-bold">villbookinghub.com</div>
               <div class="hidden md:flex">
                   <a href="#" class="mx-2">Home</a>
                   <a href="#" class="mx-2">About</a>

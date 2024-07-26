@@ -20,7 +20,7 @@ function Navbar() {
           {/* <!-- Top Navbar --> */}
         <div class="bg-pink-600 shadow-md p-4 md:flex md:items-center md:justify-between">
             <div class="flex justify-between items-center">
-            <span class="text-white text-3xl font-bold">villachalo.com</span>
+            <span class="text-white text-3xl font-bold">villbookinghub.com</span>
             <button class="block md:hidden text-2xl" id="menu-btn">
                 ☰
             </button>
